@@ -3,7 +3,7 @@
 
 **Yagouliana**
 
-- ⛷️ I’m currently estudando no sesi/senai
-- 🌱 I’m currently learning sobre git
+- ⛷️ Atualmente estou cursando no sesi/senai
+- 🌱  Atualmente estou aprendendo sobre git
 - ⚡Curiosidade:Eu gosto de futebol
 
