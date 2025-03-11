@@ -1,9 +1,7 @@
-## Opa 👋
-# 🌩️Blz🌩️
+## YAGO 
+---
+👨‍💻 **Desenvolvedor em evolução** | Sempre em busca de novas skills  
+🚀 **Atualmente dominando Git** e explorando o mundo do código  
+⚽ **Futebol** no sangue — sempre ligado nos campeonatos e jogadas
 
-**Yagouliana**
-
-- ⛷️ Atualmente estou cursando no sesi/senai
-- 🌱  Atualmente estou aprendendo sobre git
-- ⚡Curiosidade:Eu gosto de futebol
 
