@@ -1,17 +1,21 @@
-<h1 align="center">👋 Olá! Eu sou o Yago Uliana</h1>
+# <h1 align="center">👋 Olá! Eu sou o Yago Uliana</h1>
 
-<p align="center">🎯 Estudante de Desenvolvimento de Sistemas no SENAI – SP</p>
-<p align="center">🚀 Focado em desenvolvimento front-end e criação visual</p>
+### <p align="center">🎓 Formado em Desenvolvimento de Sistemas pelo SENAI – SP</p>
+### <p align="center">📊 Focado em Ciência de Dados, Inteligência Artificial e Banco de Dados</p>
 
 ---
 
 ### 🧠 Sobre mim
-🎓 Estudante de Desenvolvimento de Sistemas pelo SENAI – São Paulo  
-💻 Conhecimento em **HTML**, **CSS**, **JavaScript**  
-🎨 Experiência com **Figma**, **Canva**, **Word**, **PowerPoint** e **Excel**  
-🎯 Amo unir criatividade e tecnologia para criar interfaces **funcionais**, **responsivas** e **organizadas**  
-📚 Produzo também apresentações e materiais visuais com **clareza e impacto**  
-🎯 Busco uma oportunidade de **estágio** para crescer, aprender com profissionais da área e contribuir com meus conhecimentos
+
+🎓 Formado em Desenvolvimento de Sistemas pelo SENAI – São Paulo<br>
+💻 Conhecimentos em lógica de programação, **SQL**, **HTML**, **CSS** e **JavaScript**<br>
+🧠 Noções de programação orientadas a objetos e análise de dados<br>
+📁 Experiência com **Git/GitHub** e documentação técnica<br>
+📈 Utilização de **Excel** para organização e análise básica de dados<br>
+🎨 Familiaridade com **Figma**, **Canva**, **Word** e **PowerPoint** para apoio visual e apresentações
+
+
+
 
 ---
 
@@ -38,11 +42,37 @@
 
 ---
 
-### 📚 Atualmente estudando
-- Responsividade Web
-- JavaScript
-- Git & GitHub
-- Boas práticas de código
+# 📚 Formação concluída
+
+Lógica de programação e pensamento computacional<br>
+
+Algoritmos e resolução de problemas<br>
+
+Programação básica e estruturada<br>
+
+Programação orientada a objetos (POO)<br>
+
+Desenvolvimento de sistemas e aplicações<br>
+
+Criação e estruturação de sistemas<br>
+
+Desenvolvimento web (HTML, CSS e noções de JavaScript)<br>
+
+Banco de dados (modelagem, criação de tabelas e consultas SQL)<br>
+
+Análise de requisitos de sistemas<br>
+
+Testes básicos de software<br>
+
+Versionamento de código (Git/GitHub – noções)<br>
+
+Documentação técnica de sistemas<br>
+
+Metodologias de desenvolvimento (noções de ágil)<br>
+
+Boas práticas de programação<br>
+
+Trabalho em equipe em projetos de tecnologia
 
 ---
 
@@ -52,8 +82,16 @@
 
 ---
 
-### 📝 Objetivo
-📌 Conseguir uma vaga de estágio para aplicar meus conhecimentos e crescer na área de desenvolvimento.
+## 📝 Objetivos e Interesses
+ 
+📊 **Interesses**<br>
+**Ciência de Dados**<br>
+**Inteligência Artificial**<br>
+**Banco de Dados**
+
+📌  **Objetivo profissional**<br>
+Busco oportunidades iniciais na área de **Dados e Tecnologia**, com foco em **aprendizado contínuo**, **boas práticas** e **crescimento profissional**.
+
 
 ---
 
