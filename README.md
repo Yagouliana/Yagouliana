@@ -1,7 +1,6 @@
 # <h1 align="center">👋 Olá! Eu sou o Yago Uliana</h1>
 
 ### <p align="center">🎓 Formado em Desenvolvimento de Sistemas pelo SENAI – SP</p>
-### <p align="center">📊 Focado em Ciência de Dados, Inteligência Artificial e Banco de Dados</p>
 
 ---
 
@@ -82,12 +81,7 @@ Trabalho em equipe em projetos de tecnologia
 
 ---
 
-## 📝 Objetivos e Interesses
- 
-📊 **Interesses**<br>
-**Ciência de Dados**<br>
-**Inteligência Artificial**<br>
-**Banco de Dados**
+## 📝 Objetivos 
 
 📌  **Objetivo profissional**<br>
 Busco oportunidades iniciais na área de **Dados e Tecnologia**, com foco em **aprendizado contínuo**, **boas práticas** e **crescimento profissional**.
