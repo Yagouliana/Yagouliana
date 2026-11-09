@@ -1,91 +1,59 @@
-# <h1 align="center">👋 Olá! Eu sou o Yago Uliana</h1>
-
-### <p align="center">🎓 Formado em Desenvolvimento de Sistemas pelo SENAI – SP</p>
-
----
-
-### 🧠 Sobre mim
-
-🎓 Formado em Desenvolvimento de Sistemas pelo SENAI – São Paulo<br>
-💻 Conhecimentos em lógica de programação, **SQL**, **HTML**, **CSS** e **JavaScript**<br>
-🧠 Noções de programação orientadas a objetos e análise de dados<br>
-📁 Experiência com **Git/GitHub** e documentação técnica<br>
-📈 Utilização de **Excel** para organização e análise básica de dados<br>
-🎨 Familiaridade com **Figma**, **Canva**, **Word** e **PowerPoint** para apoio visual e apresentações
-
-
-
+<p align="center">
+  <img src="assets/header.svg" alt="Yago Uliana - Header" width="100%"/>
+</p>
 
 ---
 
-### 🧰 Tecnologias que conheço
-
-#### Front End
-![HTML5](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### Ferramentas e Workflow
-![Figma](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Perfil
+Desenvolvedor formado pelo SENAI-SP com foco em estruturação de sistemas e análise de dados. Meu trabalho une lógica de programação e boas práticas de engenharia, com foco atual em Ciência de Dados e Inteligência Artificial.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yagouliana&show_icons=true&theme=radical&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagouliana&layout=compact&langs_count=7&theme=radical"/>
-</div>
+### Áreas de Interesse
+* **Ciência de Dados** — Análise e processamento.
+* **Inteligência Artificial** — Fundamentos e aplicação.
+* **Banco de Dados** — Modelagem, estruturação e otimização.
 
 ---
 
-# 📚 Formação concluída
-
-Lógica de programação e pensamento computacional<br>
-
-Algoritmos e resolução de problemas<br>
-
-Programação básica e estruturada<br>
-
-Programação orientada a objetos (POO)<br>
-
-Desenvolvimento de sistemas e aplicações<br>
-
-Criação e estruturação de sistemas<br>
-
-Desenvolvimento web (HTML, CSS e noções de JavaScript)<br>
-
-Banco de dados (modelagem, criação de tabelas e consultas SQL)<br>
-
-Análise de requisitos de sistemas<br>
-
-Testes básicos de software<br>
-
-Versionamento de código (Git/GitHub – noções)<br>
-
-Documentação técnica de sistemas<br>
-
-Metodologias de desenvolvimento (noções de ágil)<br>
-
-Boas práticas de programação<br>
-
-Trabalho em equipe em projetos de tecnologia
+### Tecnologias & Ferramentas
+<table width="100%">
+  <tr>
+    <td width="25%"><strong>Linguagens</strong></td>
+    <td width="75%">Python, PHP, JavaScript</td>
+  </tr>
+  <tr>
+    <td width="25%"><strong>Frameworks</strong></td>
+    <td width="75%">Laravel, React, Flet</td>
+  </tr>
+  <tr>
+    <td width="25%"><strong>Dados</strong></td>
+    <td width="75%">MySQL, SQLite</td>
+  </tr>
+  <tr>
+    <td width="25%"><strong>Ferramentas</strong></td>
+    <td width="75%">Git, VS Code, Figma</td>
+  </tr>
+</table>
 
 ---
 
-### 📬 Contato
-- 📧 E-mail: ulianayago2@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yago-uliana-0877b4377/)
+### Projetos Selecionados
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :--- |
+| **Sistema Mapa Laravel** | Aplicação com API OpenStreetMap via Leaflet.js. | [Acessar](https://github.com/Yagouliana/Sistema_mapa-laravel) |
+| **Password Generator** | Aplicação desktop em Python (Flet). | [Acessar](https://github.com/Yagouliana/password-generator-python) |
+| **CRUD Python** | Sistema de gerenciamento com Tkinter/SQLite. | [Acessar](https://github.com/Yagouliana/CRUD-EM-Python) |
+| **To-Do List React** | Web app de tarefas com foco em controle de estado. | [Acessar](https://github.com/Yagouliana/Aplicativo-de-lista-de-tarefas-To-Do-List-React) |
 
 ---
 
-## 📝 Objetivos 
-
-📌  **Objetivo profissional**<br>
-Busco oportunidades iniciais na área de **Dados e Tecnologia**, com foco em **aprendizado contínuo**, **boas práticas** e **crescimento profissional**.
-
+### Formação
+**Técnico em Desenvolvimento de Sistemas** | SENAI-SP
+**Ensino Médio** | SESI
 
 ---
 
+### Contato
+[LinkedIn](https://www.linkedin.com/in/yago-uliana-0877b4377/) | [E-mail](mailto:ulianayago2@gmail.com)
